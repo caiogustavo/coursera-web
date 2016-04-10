@@ -1,0 +1,7 @@
+Links:
+
+Podem ser 
+	internos: endereço relativo ou absoluto
+	externos: endereço absoluto com http:// e tudo o mais
+
+Interessante observar que é normal colocarem o atributo target="_blank" para fazer com que o link seja aberto em uma noba aba ou janela.

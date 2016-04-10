@@ -1,0 +1,7 @@
+Comentário:
+<!--  bla bla bla   -->
+
+
+Imagem:
+src= se assemelha ao href=
+src é uma inline tag e não tem fechamento...

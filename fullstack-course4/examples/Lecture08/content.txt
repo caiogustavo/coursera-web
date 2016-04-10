@@ -1,0 +1,13 @@
+Referências de caracteres (entidades)
+Servem para:
+	- mostrar caracteres especiais de HTML (como < e >)
+	- adicionar funções interessante (como espaço com quebra de linha proibida)
+	- evitar más interpretações, por conta da condificação dos caracteres
+	- inserir caracteres que normalmente não conseguimos pelo teclado (símbolo do copyright por exemplo) 
+
+&lt; : <
+&gt; : >
+&amp; : &
+&nbsp; : non breaking space (equivalente a ctrl+shift+space no word)
+&copy; : símbolo de copyright
+&quot; : "
