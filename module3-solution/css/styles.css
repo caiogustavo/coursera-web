@@ -1,0 +1,78 @@
+body{
+	background-color: #E8F8F5;
+}
+
+#header-nav {
+	background-color: #aaa;
+	border-color: black;
+}
+
+#header-nav .navbar-header {
+	border-color: solid black;
+	border-bottom: 2px;
+}
+
+.navbar-brand h1 { /* name */
+  font-family: 'Lora', serif;
+  color: #0E6251;
+  font-size: 1.8em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#header-nav .navbar-header .navbar-toggle {
+	background-color: #ccc;
+	border-width: 2px;
+	border-color: black;
+}
+
+#header-nav .navbar-header .navbar-toggle:hover {
+	border-color: #A93C41;
+}
+
+#collapsable-nav {
+	background-color: #A3E4D7;
+	margin-right: -15px;
+	margin-left: -15px;
+	margin-bottom: -7px;
+}
+
+#nav-list li a{
+	color: black;
+}
+
+#nav-list li a:hover{
+	color: #A93C41;
+	font-weight: bold;
+}
+
+#nav-list li .divide-li{
+	border-color: black;
+	margin: 0px;
+}
+
+#main-content{
+	color: black;
+}
+
+#main-content h2{
+	font-weight: bold;
+}
+
+#main-content .row > * {
+	padding: 0px 15px 15px;
+}
+
+.section-box {
+	background-color: #aaa;
+	font-size: 1.3em;
+}
+h3 {
+	font-weight: bold;
+	padding-top: 10px;
+}
+.section-box p{
+	padding: 15px;
+}
